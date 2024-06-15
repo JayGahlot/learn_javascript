@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.btn_container {
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+.btn {
+  padding: 10px;
+}
+.blue {
+  color: blue;
+}
+.red {
+  color: red;
+}
+.add {
+  font-size: 30px;
+}
+btn-1 {
+  padding: 10px;
+}
